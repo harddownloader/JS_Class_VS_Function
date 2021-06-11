@@ -1,0 +1,4 @@
+const diap = 9000
+for(let i=diap; i<(diap + 1000); i++) {
+  console.log(`class TestClass${i} {}`)
+}
